@@ -1,0 +1,47 @@
+.main>img
+{
+background-color: rgb(240, 242, 242);
+width: 944px;
+height: 197PX;
+align-items: center;
+margin-left: 309PX;
+border: 35px;
+}
+#wow{
+margin-left: 63px;
+margin-bottom: 20px;
+}
+
+#wow1{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.form
+{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    margin-top: 25px;
+    align-content: center;
+    align-items: center;
+    padding-left: 80px;
+    
+    
+}
+#pass
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#but1
+{
+    background-color: rgb(235, 235, 245);
+    color: black;
+    
+}
+#btn{
+
+margin-top: 20px;
+
+}
